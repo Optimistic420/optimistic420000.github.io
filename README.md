@@ -1,2 +1,3 @@
 # optimistic420.github.io
 my website
+This website is made with a lot of hardwork and any part of the code must not be copied or used upon...
